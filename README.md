@@ -1,1 +1,1 @@
-https://github.com/hanakroland/Rita-fodr-szat.git# Rita-fodr-szat
+ Rita-fodr-szat
